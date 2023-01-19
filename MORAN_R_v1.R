@@ -33,17 +33,10 @@ library(rgeoda)
 
 setwd("C:/Users/iosoriod/Desktop/ARCHIVOS_C5/MORAN_SPEARMAN/")
 #CARGAR BASES-------------------------------------
-#ESCUELAS<- read.csv("ESCUELAS_EDUCACION.csv", header = T,stringsAsFactors = F)
-# base<- read.csv("CODELI_presunto_homicidio_robo_auto_colonias_V2.csv", header = T,stringsAsFactors = F)
-#totem<-read.csv("TOTEMS_MARATONCDMX_2021.csv", header = T,stringsAsFactors = F)
-#STV<-read.csv("STVs_MARATONCDMX_2021.csv", header = T,stringsAsFactors = F)
-#COV<-read.csv("TOTSTVS.csv", header = T,stringsAsFactors = F)
-
-
-
-#adecuaciones de la base
 per<-spTransform(shapefile("AGEB_lisa_value.shp"), "+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0")
 base<-per@data
+
+
 #creamos etiquetas PARA REMPLAZAR LOS NUMEROS DEL INDICE BIVARIABLE DE LISA
 per$BI_LISA<-ifelse(per$LISA_CL=="0", "NO SIGNIFICATIVO",
                 ifelse(per$LISA_CL=="1", "ALTO-ALTO",
@@ -52,30 +45,11 @@ per$BI_LISA<-ifelse(per$LISA_CL=="0", "NO SIGNIFICATIVO",
                                      ifelse(per$LISA_CL=="4","ALTO-BAJO","SIN VECINOS")))))
 
 
-# Call the color function (colorNumeric) to create a new palette function
+# creamos una paleta de colores personalizada 
 factor(per$BI_LISA)
 pal_fun <- colorFactor(c("red", "darkblue", "lightblue", "pink", "grey95","gray"), levels = c(1,2,3,4,0,6))
-pal_fun(0)
 
-leaflet() %>%
-  addPolygons(data=per,
-              stroke = FALSE, 
-              fillColor = pal_fun(per$LISA_CL),
-              fillOpacity = 0.8, smoothFactor = 0.5,
-              popup = paste("<b>","AGEB : ","</b>",per$CVE_AGEB,"<br>",
-                            "<b>","valor de correlacion : ","</b>",per$BI_LISA,"<br>")) %>%
-  addTiles() %>%
-  addLegend("bottomleft",  # location
-            pal=pal_fun,    # palette function
-            values=per$LISA_CL,  # value to be passed to palette function
-            title = 'CORRELACION ESPACIAL HOMICIO Y NARCOMENUDEO')
-
-
-
-
-
-
-#aqui termina
+#inicia creacion del mapa
 
 
 tag.map.title <- tags$style(HTML("
