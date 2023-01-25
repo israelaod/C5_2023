@@ -1,0 +1,402 @@
+DICE,DEBE DECIR
+Abandono-A,Abandono-Animal
+Abandono_1,Abandono-Arma - Cartucho
+Abandono_2,Abandono-Artefacto Explosivo
+Abandono-D,Abandono-De Objeto
+Abandono-Ó,Abandono-Órganos-Tejido-Extremidades
+Abandono-P,Abandono-Persona
+Abandono-V,Abandono-Vehículo
+Abandono_3,Abandono-Vehiculo Abandonado con Reporte en ANPR
+Accidente-,Accidente-Choque con Lesionados
+Accident_1,Accidente-Choque con Prensados
+Accident_2,Accidente-Choque sin Lesionados
+Accident_3,Accidente-Ciclista
+Accident_4,Accidente-Ferroviario
+Accident_5,Accidente-Monopatín
+Accident_6,Accidente-Motociclista
+Accident_7,Accidente-Otros
+Accident_8,Accidente-Persona Atrapada
+Accident_9,Accidente-Persona Desbarrancada
+Accident10,Accidente-Sumersion
+Accident11,Accidente-Vehículo Atrapado-Varado
+Accident12,Accidente-Vehiculo Desbarrancado
+Accident13,Accidente-Volcadura
+Administra,Administrativas-Comercio Informal
+Administ_1,Administrativas-Drogados
+Administ_2,Administrativas-Ebrios
+Administ_3,Administrativas-Faltas a la Moral
+Administ_4,Administrativas-Fisiológica
+Administ_5,Administrativas-Franeleros
+Administ_6,Administrativas-Grafitis
+Administ_7,Administrativas-Otros
+Administ_8,Administrativas-Prostitución
+Administ_9,Administrativas-Tirar Basura en Vía Pública
+Agresión-A,Agresión-A Policía
+Agresión-C,Agresión-Casa Habitación
+Agresión-N,Agresión-Negocio
+Agresión-O,Agresión-Otros
+Agresión-P,Agresión-Persona
+Agresión-S,Agresión-Servidor Público
+Agresión-V,Agresión-Violencia contra la Mujer
+Agresión_1,Agresión-Violencia Intrafamiliar
+Amenaza-A,Amenaza-A Inmueble
+Amenaza-_1,Amenaza-A Persona
+Amenaza-Bo,Amenaza-Bomba
+Amenaza-De,Amenaza-De Suicidio
+Amenaza-Ot,Amenaza-Otros
+Cadáver-Ab,Cadáver-Abandonado
+Cadáver-Ac,Cadáver-Accidente Automovilístico
+Cadáver-Ar,Cadáver-Arma  Contusa
+Cadáver-_1,Cadáver-Arma Blanca
+Cadáver-_2,Cadáver-Arma de Fuego
+Cadáver-At,Cadáver-Atragantamiento-Asfixia
+Cadáver-_3,Cadáver-Atropellado
+Cadáver-Ca,Cadáver-Caída
+Cadáver-En,Cadáver-Enterrado
+Cadáver-Es,Cadáver-Estrangulado
+Cadáver-Fe,Cadáver-Feto
+Cadáver-Ho,Cadáver-Homicidio
+Cadáver-In,Cadáver-Intoxicación
+Cadáver-Mu,Cadáver-Muerte Causa Ignorada
+Cadáver-_4,Cadáver-Muerte por enfermedad previamente diagnosticada
+Cadáver-_5,Cadáver-Muerte por probable COVID
+Cadáver-Ot,Cadáver-Otros
+Cadáver-Qu,Cadáver-Quemado o Electrocutado
+Cadáver-Ri,Cadáver-Riña o Golpes
+Cadáver-Su,Cadáver-Suicidio
+Cadáver-_6,Cadáver-Sumersión-Ahogamiento
+Cadáver-_7,Cadáver-Suspendido
+Cadáver-Ví,Cadáver-Vías del Metro
+Cierre de,Cierre de Prueba
+Contra la,Contra la Salud-Consumo de Droga o Estupefacientes
+Contra l_1,Contra la Salud-Otros
+Contra l_2,Contra la Salud-Traslado de Droga o Estupefacientes
+Contra l_3,Contra la Salud-Venta o Distribución  de Droga o Estupefacientes
+Daños por,Daños por Fenómeno Natural o Tercero-Afectación Inmueble
+Daños po_1,Daños por Fenómeno Natural o Tercero-Afectación Vehículo
+Daños po_2,Daños por Fenómeno Natural o Tercero-Agrietamiento
+Daños po_3,Daños por Fenómeno Natural o Tercero-Árbol Ladeado
+Daños po_4,Daños por fenómeno natural o tercero-Caída de Anuncio Espectacular
+Daños po_5,Daños por Fenómeno Natural o Tercero-Caída de Árbol
+Daños po_6,Daños por Fenómeno Natural o Tercero-Caída de Barda
+Daños po_7,Daños por Fenómeno Natural o Tercero-Caída de Cables
+Daños po_8,Daños por Fenómeno Natural o Tercero-Caída de Ceniza
+Daños po_9,Daños por Fenómeno Natural o Tercero-Caída de Poste
+Daños po10,Daños por Fenómeno Natural o Tercero-Caida de Rayo
+Daños po11,Daños por Fenómeno Natural o Tercero-Caída Rama
+Daños po12,Daños por Fenómeno Natural o Tercero-Derrumbe
+Daños po13,Daños por Fenómeno Natural o Tercero-Desborde - Canal - Rio - Presa
+Daños po14,Daños por Fenómeno Natural o Tercero-Deslave
+Daños po15,Daños por Fenómeno Natural o Tercero-Desprendimiento Lona de Espectacular
+Daños po16,Daños por Fenómeno Natural o Tercero-Encharcamiento
+Daños po17,Daños por Fenómeno Natural o Tercero-Hundimiento
+Daños po18,Daños por Fenómeno Natural o Tercero-Inundación
+Daños po19,Daños por Fenómeno Natural o Tercero-Otros
+Daños po20,Daños por Fenómeno Natural o Tercero-PosteLadeado
+Daños po21,Daños por Fenómeno Natural o Tercero-Socavón
+Daños po22,Daños por Fenómeno Natural o Tercero-Zona sin Energia Electrica
+Daños-A la,Daños-A la Nación - Vías de Comunicación
+Daños-Casa,Daños-Casa Habitación
+Daños-Inst,Daños-Instalaciones Gubernamentales
+Daños-Nego,Daños-Negocio
+Daños-Otro,Daños-Otros
+Daños-Prop,Daños-Propiedad Ajena
+Daños-Sist,Daños-Sistema Tecnológico de Videovigilancia
+Denuncia-A,Denuncia-Allanamiento
+Denuncia_1,Denuncia-Almacenamiento ilegal de combustible
+Denuncia-E,Denuncia-Extorsión
+DENUNCIA_2,DENUNCIA-EXTORSION TELEFONICA
+Denuncia-F,Denuncia-Fraude
+Denuncia-H,Denuncia-Hechos
+Denuncia-I,Denuncia-Invasion de Predio
+Denuncia-M,Denuncia-Maltrato - Discriminación
+Denuncia_3,Denuncia-Maltrato Animal
+Denuncia_4,Denuncia-Menor en riesgo
+Denuncia-O,Denuncia-Olor Fétido - Manchas Hematicas en Inmueble
+Denuncia_5,Denuncia-Otros
+Denuncia-P,Denuncia-Persona Desaparecida
+Denuncia_6,Denuncia-Persona en Riesgo
+Denuncia_7,Denuncia-Persona Sospechosa
+Denuncia-R,Denuncia-Reventa
+Denuncia_8,Denuncia-Ruptura de Sellos
+Denuncia-S,Denuncia-Servidor Público
+Denuncia-T,Denuncia-Tala Clandestina
+Denuncia_9,Denuncia-Toma Clandestina
+Denuncia-U,Denuncia-Uso o presentación de documento falso
+Denuncia-V,Denuncia-Vehiculo con Manchas Hemáticas - Olor fétido
+Denuncia10,Denuncia-Venta de Pirotecnia
+Denuncia11,Denuncia-Venta Ilegal de Combustibles
+Derrame o,Derrame o Fuga-Agua Potable
+Derrame _1,Derrame o Fuga-Aguas Negras
+Derrame _2,Derrame o Fuga-Cilindro de Gas
+Derrame _3,Derrame o Fuga-Gas Natural
+Derrame _4,Derrame o Fuga-Material o Sustancia en pavimento
+Derrame _5,Derrame o Fuga-Olor a Gas - Combustible Quimicos
+Derrame _6,Derrame o Fuga-Otros
+Derrame _7,Derrame o Fuga-Petróleo y Derivados o Ductos
+Derrame _8,Derrame o Fuga-Pipa de Gas
+Derrame _9,Derrame o Fuga-Productos Químicos
+Derrame 10,Derrame o Fuga-Tanque Estacionario
+Detención,Detención Ciudadana-Accidente Automovilístico
+Detenció_1,Detención Ciudadana-Agresión
+Detenció_2,Detención Ciudadana-Allanamiento
+Detenció_3,Detención Ciudadana-Atropellamiento
+Detenció_4,Detención Ciudadana-Daños
+Detenció_5,Detención Ciudadana-Delitos Sexuales
+Detenció_6,Detención Ciudadana-Fraude
+Detenció_7,Detención Ciudadana-Otros
+Detenció_8,Detención Ciudadana-Robo
+Detenció_9,Detención ciudadana-Secuestro
+Disturbio-,Disturbio-Arrancones
+Disturbi_1,Disturbio-Bloqueos
+Disturbi_2,Disturbio-Casa Habitación
+Disturbi_3,Disturbio-Concentración de Personas
+Disturbi_4,Disturbio-Desperdicio de Agua
+Disturbi_5,Disturbio-Disparos
+Disturbi_6,Disturbio-Escándalo
+Disturbi_7,Disturbio-Fiestas
+Disturbi_8,Disturbio-Jugadores
+Disturbi_9,Disturbio-Linchamiento
+Disturbi10,Disturbio-Marcha de Personas
+Disturbi11,Disturbio-Otros
+Disturbi12,Disturbio-Quema de Pirotecnia
+Disturbi13,Disturbio-Riña
+Electorale,Electorales-Agresión a Funcionarios
+Electora_1,Electorales-Compra de Votos
+Electora_2,Electorales-Credencial Apócrifa
+Electora_3,Electorales-Otros
+Electora_4,Electorales-Proselitismo
+ELECTORA_5,ELECTORALES-QUEJA POR INSTALACION TARDIA
+Electora_6,Electorales-Retiro de Propaganda
+Enfermo Pr,Enfermo Probable COVID-Hospital en casa
+Enfermo _1,Enfermo Probable COVID-Se Traslada por sus medios
+Explosión-,Explosión-Artefacto Explosivo
+Explosió_1,Explosión-Casa Habitación
+Explosió_2,Explosión-Comercio ambulante
+Explosió_3,Explosión-Edificio
+Explosió_4,Explosión-Escuela
+Explosió_5,Explosión-Industria
+Explosió_6,Explosión-Instalación o Subestación eléctrica
+Explosió_7,Explosión-Instalaciones de Gobierno
+Explosió_8,Explosión-Mufas
+Explosió_9,Explosión-Negocio  Plaza Comercial   Mercado
+Explosió10,Explosión-Otros
+Explosió11,Explosión-Pipa
+Explosió12,Explosión-Polvorín Clandestino
+Explosió13,Explosión-Transformador
+Explosió14,Explosión-Vehículo
+FALSA ALAR,FALSA ALARMA-BOTÓN DE AUXILIO
+Incendio-A,Incendio-Arbol
+Incendio-C,Incendio-Casa Habitación
+Incendio_1,Incendio-Comercio ambulante
+Incendio-E,Incendio-Edificio
+Incendio_2,Incendio-Escuela
+Incendio-F,Incendio-Forestal
+Incendio-G,Incendio-Gasolinera
+Incendio-I,Incendio-Industria
+Incendio_3,Incendio-Instalación o Subestación eléctrica
+Incendio_4,Incendio-Instalaciones de Gobierno
+Incendio-L,Incendio-Lote baldio
+Incendio-M,Incendio-Mufa
+Incendio-N,Incendio-Negocio  Plaza Comercial   Mercado
+Incendio-O,Incendio-Otros
+Incendio-P,Incendio-Pipa
+Incendio-Q,Incendio-Quema de Basura
+Incendio_5,Incendio-Quema de Pastizal
+Incendio-T,Incendio-Transformador
+Incendio-V,Incendio-Vehículo
+Intento de,Intento de suicidio-Inhalación de gas-químicos
+Intento _1,Intento de suicidio-Otros
+Intento _2,Intento de suicidio-Se arrojó  a las vías del metro
+Intento _3,Intento de suicidio-Se arrojó  al vacío
+Intento _4,Intento de suicidio-Se cortó-autolesionó
+Intento _5,Intento de suicidio-Se disparó
+Intento _6,Intento de suicidio-Se suspendió
+Intento _7,Intento de suicidio-Tomó pastillas o estupefacientes
+Lesionado-,Lesionado-Atropellado
+Lesionad_1,Lesionado-Caída
+Lesionad_2,Lesionado-Cayó de estructura o inmueble
+Lesionad_3,Lesionado-Electrocutado
+Lesionad_4,Lesionado-Otros
+Lesionad_5,Lesionado-Picadura o Mordedura
+Lesionad_6,Lesionado-Policía
+Lesionad_7,Lesionado-Por Arma Blanca
+Lesionad_8,Lesionado-Por Arma de Fuego
+Lesionad_9,Lesionado-Por Golpes-Agresión
+Lesionad10,Lesionado-Por Herramienta o Maquinaria
+Lesionad11,Lesionado-Por Objeto Contuso
+Lesionad12,Lesionado-Prácticas Deportivas
+Lesionad13,Lesionado-Prensado
+Lesionad14,Lesionado-Quemadura
+Lesionad15,Lesionado-Suspendido
+Médicos-Am,Médicos-Amenaza de Aborto
+Médicos-As,Médicos-Asfixia-Atragantamiento
+Médicos-Co,Médicos-Convulsiones
+Médicos-Cr,Médicos-Crisis Nerviosa
+Médicos-Do,Médicos-Dolor
+Médicos-En,Médicos-Enfermo
+Médicos-_1,Médicos-Enfermo-Infección Respiratoria (IR)
+Médicos-_2,Médicos-Enfermo-Probable COVID-Con traslado AMB
+Médicos-Ev,Médicos-Evento Vascular Cerebral
+Médicos-He,Médicos-Hemorragia
+Médicos-Hi,Médicos-Hipoglucemia
+Médicos-In,Médicos-Inconsciente
+Médicos-_3,Médicos-Infarto
+Médicos-_4,Médicos-Intoxicado
+Médicos-Ot,Médicos-Otros
+Médicos-Su,Médicos-Sumersión-Ahogamiento
+Médicos-Tr,Médicos-Trabajo de Parto - Alumbramiento
+Mi Ciudad-,Mi Ciudad-Policia-Mi Negocio-Otros
+Mi Ciuda_1,Mi Ciudad-Taxi-DELITO
+Otros-Agra,Otros-Agradecimiento Servicio-Despacho
+Otros-Apoy,Otros-Apoyo a Policía
+Otros-Even,Otros-Eventos Dentro de las Instalaciones del Metro
+Otros-Ev_1,Otros-Eventos Especiales
+Otros-Oper,Otros-Operativos Especiales
+Persona Ex,Persona Extraviada en Zona Boscosa
+Privación,Privación de la Libertad-Otros
+Privació_1,Privación de la Libertad-Retención de Menores
+Privació_2,Privación de la Libertad-Secuestro
+Privació_3,Privación de la Libertad-Secuestro Express
+Reporte AN,Reporte ANPR
+Robo-A tax,Robo-A taxista
+Robo-Anima,Robo-Animales
+Robo-Auto,Robo-Auto partes
+Robo-Autom,Robo-Automovilista
+Robo-Banco,Robo-Bancos
+Robo-Biene,Robo-Bienes Gubernamentales (Coladeras Cable)
+Robo-Cable,Robo-Cable
+Robo-Cajer,Robo-Cajero Automático
+Robo-Camio,Robo-Camioneta de Valores
+Robo-Casa,Robo-Casa Habitación con Violencia
+Robo-Cas_1,Robo-Casa Habitación sin Violencia
+Robo-Cuent,Robo-Cuentahabiente
+Robo-Escue,Robo-Escuela
+Robo-Estab,Robo-Establecimiento con Violencia
+Robo-Est_1,Robo-Establecimiento sin Violencia
+Robo-Insti,Robo-Institución Pública
+Robo-Objet,Robo-Objetos personales al interior de vehículo
+Robo-Otros,Robo-Otros
+Robo-Pasaj,Robo-Pasajero Transporte Publico APP
+Robo-Pas_1,Robo-Pasajero Transporte Publico M1
+Robo-Pas_2,Robo-Pasajero Transporte Publico Metro
+Robo-Pas_3,Robo-Pasajero Transporte Publico Metrobus
+Robo-Pas_4,Robo-Pasajero Transporte Público Microbus-Camión
+Robo-Pas_5,Robo-Pasajero Transporte Público Mini VAN
+Robo-Pas_6,Robo-Pasajero Transporte Publico Transportes Electricos
+Robo-Repar,Robo-Repartidor
+Robo-Robo,Robo-Robo a clientes en interior de negocio
+Robo-Saque,Robo-Saqueo de establecimiento
+Robo-Trans,Robo-Transeúnte
+Robo-Tra_1,Robo-Transporte de Carga o Mercancías
+Robo-Tra_2,Robo-Transporte de pasajeros-Foráneo
+Robo-Tra_3,Robo-Transporte Público Taxi
+Robo-Vehic,Robo-Vehiculo con Violencia
+Robo-Vehíc,Robo-Vehículo sin Violencia
+Servicios-,Servicios-Abastecimiento de Agua
+Servicio_1,Servicios-Alarma Activada
+SERVICIO_2,SERVICIOS-ALARMA ACTIVADA - SEPROBAN
+SERVICIO_3,SERVICIOS-ALERTA ACTIVADA-TRANSPORTE PUBLICO ORT
+SERVICIO_4,SERVICIOS-ALERTA ACTIVADA-UBER
+Servicio_5,Servicios-Animales Peligrosos
+Servicio_6,Servicios-Apoyo para Desalojo
+Servicio_7,Servicios-Apoyo Vial Embotellamiento
+Servicio_8,Servicios-Apoyo Vial Semáforos Descompuestos
+Servicio_9,Servicios-Baches
+Servicio10,Servicios-Coladera o Resgistro sin Tapa
+Servicio11,Servicios-Corto Cables - Transformador
+Servicio12,Servicios-Corto Circuito instalación o subestación eléctrica
+Servicio13,Servicios-Desalojo Simulacro
+Servicio14,Servicios-Enjambre
+Servicio15,Servicios-Entrevista Ciudadana
+Servicio16,Servicios-Falla en STV o marco ANPR
+Servicio17,Servicios-Falta de Agua
+Servicio18,Servicios-Menor extraviado
+Servicio19,Servicios-Otros
+Servicio20,Servicios-Peregrinación
+Servicio21,Servicios-Persona Extraviada
+Servicio22,Servicios-Reporte de Vehículo Vía GPS
+Servicio23,Servicios-Reporte de Vehículo Vía Radio
+Servicio24,Servicios-Reporte de Vehículo via Radio Estado de México
+Servicio25,Servicios-Sanitización de domicilio-inmueble
+Servicio26,Servicios-Simulacro
+Servicio27,Servicios-Solicitud de Escolta
+Servicio28,Servicios-Vehículo Chatarra
+Servicio29,Servicios-Vehículo Descompuesto
+Servicio30,Servicios-Vehículo Obstruyendo
+Servicio31,Servicios-Vehículo Recuperado-Localizado
+Sexuales-A,Sexuales-Abuso
+Sexuales_1,Sexuales-Acoso
+Sexuales_2,Sexuales-Acoso en transporte público
+Sexuales-O,Sexuales-Otros
+Sexuales-V,Sexuales-Violación
+Sismo-Agri,Sismo-Agrietamiento
+Sismo-Caíd,Sismo-Caída de Árbol
+Sismo-Ca_1,Sismo-Caída de Barda
+Sismo-Ca_2,Sismo-Caída de Cables
+Sismo-Ca_3,Sismo-Caída de Poste
+Sismo-Choq,Sismo-Choque con Lesionados
+Sismo-Daño,Sismo-Daños a STV
+Sismo-Derr,Sismo-Derrumbe
+Sismo-Estr,Sismo-Estructura en Riesgo de Colapso
+Sismo-Evac,Sismo-Evacuación
+Sismo-Eval,Sismo-Evaluación-Casa Habitación
+Sismo-Ev_1,Sismo-Evaluación-Edificio
+Sismo-Ev_2,Sismo-Evaluación-Edificio de Gobierno
+Sismo-Ev_3,Sismo-Evaluación-Escuela
+Sismo-Ev_4,Sismo-Evaluación-Unidad Habitacional
+Sismo-Expl,Sismo-Explosión
+Sismo-Ex_1,Sismo-Explosión Transformador
+Sismo-Falt,Sismo-Falta energía Eléctrica
+Sismo-Fuga,Sismo-Fuga de Agua
+Sismo-Fu_1,Sismo-Fuga de Gas
+Sismo-Fu_2,Sismo-Fuga de Gas Natural
+Sismo-Hund,Sismo-Hundimiento
+Sismo-Ince,Sismo-Incendio
+Sismo-Perc,Sismo-Percepción de sismo (baja intensidad)
+Sismo-Pers,Sismo-Persona Atrapada
+Sismo-Pe_1,Sismo-Persona atrapada-Elevador
+Sismo-Pe_2,Sismo-Persona en crisis nerviosa
+Sismo-Pe_3,Sismo-Persona Lesionada
+Sismo-Post,Sismo-Poste o Árbol Ladeado
+Sismo-Soca,Sismo-Socavón
+SOLICITUD,SOLICITUD DE INFORMACION Y ORIENTACION
+SOLICITU_1,SOLICITUD DE RESCATE FAUNA SILVESTRE-DOMESTICA
+SOS Mujere,SOS Mujeres-Agresion Fisica En Proceso
+SOS Muje_1,SOS Mujeres-Amenaza De Muerte
+SOS MUJE_2,SOS MUJERES-DENUNCIA DE AGRESION Y MALTRATO (NO EN PROCESO)
+SOS MUJE_3,SOS MUJERES-DENUNCIA DE AGRESION Y MALTRATO-NO EN PROCESO
+SOS MUJE_4,SOS MUJERES-PRIVACION DE LA LIBERTAD
+SOS MUJE_5,SOS MUJERES-SOLICITUD DE INFORMACION Y ORIENTACION
+TM-ABORTO,TM-ABORTO
+TM-ALTERAC,TM-ALTERACIÓN DEL EDO DE ALERTA
+TM-AMENAZA,TM-AMENAZA DE ABORTO
+TM-ATRAGAN,TM-ATRAGANTAMIENTO
+TM-BP-CONS,TM-BP-CONSCIENTE
+TM-BP-INCO,TM-BP-INCONSCIENTE
+TM-CONVULS,TM-CONVULSIONES
+TM-COVID G,TM-COVID GRAVE
+TM-DOLOR,TM-DOLOR
+TM-ESTADO,TM-ESTADO DE CHOQUE
+TM-ESTATUS,TM-ESTATUS EPILÉPTICO
+TM-EVC,TM-EVC
+TM-HIPOGLI,TM-HIPOGLICEMIA SEVERA
+TM-HIPOG_1,TM-HIPOGLICEMIA SINTOMÁTICA
+TM-INCONSC,TM-INCONSCIENTE
+TM-INCON_1,TM-INCONSCIENTE VÍA PÚBLICA
+TM-INSUFIC,TM-INSUFICIENCIA RESPIRATORIA
+TM-INTOXIC,TM-INTOXICADO POR SUSTANCIAS
+TM-MÉDICOS,TM-MÉDICOS-OTROS
+TM-OTROS,TM-OTROS
+TM-PARO CA,TM-PARO CARDIORESPIRATORIO
+TM-PARTO F,TM-PARTO FORTUITO
+TM-PRECLAM,TM-PRECLAMPSIA-ECLAMPSIA
+TM-RADIO-C,TM-RADIO-CONSCIENTE
+TM-RADIO-I,TM-RADIO-INCONSCIENTE
+TM-SICA,TM-SICA
+TM-SX DOLO,TM-SX DOLOROSO ABDOMINAL
+TM-TRABAJO,TM-TRABAJO DE PARTO
+TRANSFEREN,TRANSFERENCIA LOCATEL JURÍDICO
+Transfer_1,Transferencia Médico
+Urgencias,Urgencias Medicas-Probable Reaccion Por Vacunacion
+Total gene,Total general
