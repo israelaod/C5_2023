@@ -29,12 +29,59 @@ library(maptools)
 library(GISTools)
 library(plotly)
 library(rgeoda)
+library(reshape2)
+library(Hmisc)
+library(stats)
+library(kableExtra)
 
 
-setwd("C:/Users/iosoriod/Desktop/ARCHIVOS_C5/MORAN_SPEARMAN/")
+setwd("C:/Users/iosoriod/Desktop/ARCHIVOS_2023/C5_2023/SPEARMAN/")
 #CARGAR BASES-------------------------------------
-per<-spTransform(shapefile("AGEB_lisa_value.shp"), "+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0")
+per<-spTransform(shapefile("DAI_2022_AGEBS.shp"), "+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0")
 base<-per@data
+colnames(base)
+base[is.na(base)] <- 0
+base2<-base %>% dplyr::select(-"POLY_ID",-"CVEGEO",-"CVE_ENT",-"CVE_MUN",-"CVE_LOC",-"CVE_AGEB",-"area",-"HOMICIDIOS", -"NARCOMENUD", -"LISA_I",    
+                       -"LISA_CL",-"LISA_P"     )
+
+prueba1<-base %>% dplyr::select("POLY_ID","HOMICIDIOS", "NARCOMENUD")
+# d <- mtcars
+
+class(mtcars)
+cormatrix = rcorr(as.matrix(prueba1), type='spearman')
+cormatrix$r
+cormatrix$P
+
+cordata = melt(cormatrix$r)
+ggplot(cordata, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile() + xlab("") + ylab("")
+
+#
+homicidio <- prueba1$HOMICIDIOS
+narcomenudeo <- prueba1$NARCOMENUD
+scatter <- data.frame(homicidio,narcomenudeo)
+ggplot(scatter, aes(x=homicidio, y=narcomenudeo)) +
+  geom_point() +
+  stat_ellipse(geom = "polygon",type = "norm",
+               fill = 4, alpha = 0.25)+
+  geom_smooth(method=lm, se=FALSE, fullrange=TRUE, color='red')
+
+
+
+corranals <- cor.test(homicidio,narcomenudeo, method = "spearman")
+corranals$p.value
+corranals$method
+corranals$estimate
+corranals
+
+
+cormatrix = rcorr(as.matrix(prueba1), type='spearman')
+cormatrix$r
+cormatrix$P
+
+cordata = melt(cormatrix$r)
+ggplot(cordata, aes(x=Var1, y=Var2, fill=value)) + 
+  geom_tile() + xlab("") + ylab("")
 
 
 #creamos etiquetas PARA REMPLAZAR LOS NUMEROS DEL INDICE BIVARIABLE DE LISA
