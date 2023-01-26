@@ -264,9 +264,7 @@ addCircles(data = totem, lng = totem$LONGITUD, lat = totem$LATITUD,radius = 8,co
                
                "&nbsp; <b>MI C911E</b> &nbsp; ",
                "TOT","CONS"))
-  #p
-  
-  
+
   
   
   
