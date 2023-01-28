@@ -259,6 +259,5 @@ leaflet()  %>%addTiles() %>%addProviderTiles(providers$Esri.WorldGrayCanvas) %>%
   
   
   
-  
 
 
