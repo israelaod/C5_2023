@@ -84,6 +84,7 @@ ggplot(cordata, aes(x=Var1, y=Var2, fill=value)) +
   geom_tile() + xlab("") + ylab("")
 
 
+
 #creamos etiquetas PARA REMPLAZAR LOS NUMEROS DEL INDICE BIVARIABLE DE LISA
 per$BI_LISA<-ifelse(per$LISA_CL=="0", "NO SIGNIFICATIVO",
                 ifelse(per$LISA_CL=="1", "ALTO-ALTO",
